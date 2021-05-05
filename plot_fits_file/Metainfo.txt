@@ -1,0 +1,18 @@
+Name of QuantLet : plot_fits_file
+
+
+Published in : astronomy
+
+Description : 'This script plot fits file using python'
+
+Keywords : 
+- astornomy
+- fits file
+- astropy
+- plot
+
+
+Author: Dragos Nicu Cioata
+
+Submitted : Wen, 05 May 2021
+© 2021 GitHub, Inc.
